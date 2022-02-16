@@ -1,0 +1,1 @@
+web: gunicorn mcboutiquebc.wsgi:application --log-file -
